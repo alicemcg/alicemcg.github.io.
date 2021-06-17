@@ -717,3 +717,10 @@ footer .newsletter {
 i.fa {
     margin-right: 8px;
 }
+
+/* CARD */
+
+.card {
+    background-color: #c6002e!important;
+    color: white;
+}
